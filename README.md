@@ -1,10 +1,12 @@
 Youtube Playlist Downloader
 
 - Install Python
-- create **venv** inside the **ytdl** folder and run the script.
+- follow these commands
 
 ```bash
-python -m venv venv
+chmod +x install.sh
+./install.sh
+
 chmod +x run.sh
 ./run.sh
 ```
